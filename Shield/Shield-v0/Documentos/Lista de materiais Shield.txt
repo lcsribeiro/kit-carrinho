@@ -1,0 +1,44 @@
+Partlist exported from C:/.../Shield.sch at 27/09/2017 19:12
+
+Part Value   Device                         Package           Description                          
+C1   10u     CPOL-EUE2.5-5                  E2,5-5            POLARIZED CAPACITOR, European symbol                                                        
+C2   100n    C-EU025-024X044                C025-024X044      CAPACITOR, European symbol                                                                  
+C3   10u     CPOL-EUE2.5-5                  E2,5-5            POLARIZED CAPACITOR, European symbol                                                        
+C4   100n    C-EU025-024X044                C025-024X044      CAPACITOR, European symbol                                                                  
+C5   100n    C-EU025-024X044                C025-024X044      CAPACITOR, European symbol                                                                  
+C6   100n    C-EU025-024X044                C025-024X044      CAPACITOR, European symbol                                                                  
+C7   10u     CPOL-EUE2.5-5                  E2,5-5            POLARIZED CAPACITOR, European symbol                                                        
+C8   100n    C-EU025-024X044                C025-024X044      CAPACITOR, European symbol                                                                  
+C9   100n    C-EU025-024X044                C025-024X044      CAPACITOR, European symbol                                                                  
+C10  100n    C-EU025-024X044                C025-024X044      CAPACITOR, European symbol                                                                  
+D1   1N4004  1N4004                         DO41-10           DIODE                                                                                       
+DIS1 HD-H101 HD-H101                        HDSP-M            LED DISPLAY                                                              
+IC1  L293D   L293D                          DIL16             PUSH-PULL 4 CHANNEL DRIVER                                         
+IC2  78T     7805T                          TO220H            Positive VOLTAGE REGULATOR                                                                  
+LED1         LED5MM                         LED5MM            LED                                                                                         
+LED3         LED5MM                         LED5MM            LED                                                                                         
+LED4         LED5MM                         LED5MM            LED                                                                                                                                                                  
+R1   1k      R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R2   10k     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R3   5.6k    R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R4   560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R5   560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R6   560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R7   560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R8   560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R9   560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R10  10k     TRIMPOT-PTH-10MM-KNOB-1/2W-10% TRIMPOT-PTH-3386U Trimming Potentiometer (Trimpot)                                   RES-09730 COM-09806 10k  
+R11  10k     TRIMPOT-PTH-10MM-KNOB-1/2W-10% TRIMPOT-PTH-3386U Trimming Potentiometer (Trimpot)                                   RES-09730 COM-09806 10k  
+R12  33R     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R13  560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R14  560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R15  560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+R16  560     R-EU_0204/7                    0204/7            RESISTOR, European symbol                                                                   
+SV5          MA10-2                         MA10-2            PIN HEADER                                    unknown    unknown                            
+SV6          MA10-2                         MA10-2            PIN HEADER                                    unknown    unknown                            
+SV7          MA05-2                         MA05-2            PIN HEADER                                    unknown    unknown                            
+SV8          MA06-1                         MA06-1            PIN HEADER                                    unknown    unknown                            
+SV9          MA04-1                         MA04-1            PIN HEADER                                    unknown    unknown                            
+SV10         MA03-1                         MA03-1            PIN HEADER                                    unknown    unknown                            
+SV11         FE16-1                         FE16              PIN HEADER                                                                                            
+X1           AK300/2                        AK300/2           CONNECTOR                                     unknown    unknown                            

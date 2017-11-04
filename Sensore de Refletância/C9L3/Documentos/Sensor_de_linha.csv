@@ -1,0 +1,18 @@
+"Part";"Value";"Device";"Package";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"C1";"1u";"CPOL-EUE5-5";"E5-5";"POLARIZED CAPACITOR, European symbol";"";"";"";"";
+"C2";"100n";"C-EU025-030X050";"C025-030X050";"CAPACITOR, European symbol";"";"";"";"";
+"C3";"1u";"CPOL-EUE5-5";"E5-5";"POLARIZED CAPACITOR, European symbol";"";"";"";"";
+"C4";"100n";"C-EU025-030X050";"C025-030X050";"CAPACITOR, European symbol";"";"";"";"";
+"R1";"220";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";
+"R2";"220";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";
+"R3";"220";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";
+"R4";"220";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";
+"R5";"220";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";
+"R6";"220";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";
+"R7";"220";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";
+"S1";"C9L3";"C9L3";"C9L3";"";"";"";"";"";
+"S2";"C9L3";"C9L3";"C9L3";"";"";"";"";"";
+"S3";"C9L3";"C9L3";"C9L3";"";"";"";"";"";
+"S4";"C9L3";"C9L3";"C9L3";"";"";"";"";"";
+"S5";"C9L3";"C9L3";"C9L3";"";"";"";"";"";
+"SV1";"";"MA05-2";"MA05-2";"PIN HEADER";"";"";"unknown";"unknown";
